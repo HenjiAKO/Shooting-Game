@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/School_Files/GAMEDEV/TEST/ShootingGalley/ShootingGalley/Content/galleryFont.spritefont</SourceFile>
+  <SourceTime>2017-11-18T14:07:30+08:00</SourceTime>
+  <DestFile>D:/School_Files/GAMEDEV/TEST/ShootingGalley/ShootingGalley/Content/bin/DesktopGL/Content/galleryFont.xnb</DestFile>
+  <DestTime>2025-09-13T22:55:32.3715708+08:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2025-06-02T18:31:02+08:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2025-06-02T18:31:02+08:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
