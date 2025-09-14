@@ -57,9 +57,11 @@ Choose from multiple difficulty levels that change how quickly targets appear an
 
 📸 Screenshots
 
+
   <img width="801" height="508" alt="image" src="https://github.com/user-attachments/assets/a94687e7-1bce-40c0-8339-cd92e915f2f7" />
   <img width="800" height="512" alt="image" src="https://github.com/user-attachments/assets/525c6c93-7963-42a3-bd4a-7d7510a7e5bf" />
   <img width="803" height="510" alt="image" src="https://github.com/user-attachments/assets/cfeb225a-3c48-4d38-877c-d16be1b8043b" />
+
 
 📌 Future Plans
   - Add Android build support
@@ -68,5 +70,6 @@ Choose from multiple difficulty levels that change how quickly targets appear an
 
 
 📄 License
+
 This project is open-source. Feel free to fork, modify, and learn from it.
 
